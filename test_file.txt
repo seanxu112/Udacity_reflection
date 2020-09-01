@@ -1,1 +1,1 @@
-This is a new file, first commit on the second machine
+This is a new file, second commit on the first machine
